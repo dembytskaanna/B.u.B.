@@ -22,7 +22,7 @@ Main page of the site. HOME, ABOUT, MEMBERSHIP, GALLERY, FAQ, CONTACT – anchor
 where information about the sports club (brief overview), about the number of coaches and their specializations
 is posted; image gallery (carousel), answers to the most frequently asked questions about the institution
 and contact form 1, by filling in which the user can ask a question and get an answer to it.
-BUY NOW is the second page of the site, which contains more detailed information about
+MEMBERSHIP is the second page of the site, which contains more detailed information about
 subscriptions (their price and what they include). There is also a form where a
 potential customer can reserve any of the season tickets to pay for it
 after agreeing the details with the commercial department.
